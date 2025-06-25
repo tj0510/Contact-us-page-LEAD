@@ -35,3 +35,17 @@ This is a **responsive Contact Us page** created for the **LEAD Society**, showc
    git clone https://github.com/your-username/lead-contact-page.git
 
 2. Open LeadContactUsPage.html in your browser.
+
+---
+
+## 🧑‍💻 Author
+
+Made with ❤️ by [**Tushar Julka**](https://github.com/tj0510)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. Feel free to use, modify, and share it.
+
+---
